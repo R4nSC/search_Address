@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css?family=Sarpanch:700&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body {
+    color: rgb(36, 36, 36);
+    margin: 0;
+    padding: 0;
+    border-bottom: 0;
+    background-position: left top;
+    background-color: rgb(253, 230, 194);
+    background-image: url("picture/map.png");
+    background-size: cover;
+}
+
+
+p {
+    line-height: 1.6;
+    color: rgb(36, 36, 36);
+}
+
+
+.title{
+    font-family: 'Sarpanch', sans-serif;
+    font-size: 15vh;
+    font-weight: 100;
+    position: absolute;
+    top:30vh;
+    padding-left: 10%;
+}
+
+.addressSearch0{
+    font-family: 'Sarpanch', sans-serif;
+    font-size: 7vh;
+    font-weight: 100;
+    width: 100%;
+    position: absolute;
+    top:50vh;
+    padding-left: 10%;
+}
+
+.addressSearch1{
+    font-family: 'Sarpanch', sans-serif;
+    font-size: 7vh;
+    font-weight: 100;
+    width: 100%;
+    position: absolute;
+    top:0vh;
+    padding-left: 10%;
+}
+
+.result{
+
+    font-family: 'Sarpanch', sans-serif;
+    font-size: 2vh;
+    width: 100%;
+    font-weight: 50;
+    position: absolute;
+    top:10vh;
+}
